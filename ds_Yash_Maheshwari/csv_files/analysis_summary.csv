@@ -1,0 +1,27 @@
+Category,Metric,Value
+Metadata,Analysis Date,2026-01-11 10:48:34
+Metadata,Total Trades Analyzed,211224
+Metadata,Date Range Start,2023-05-01
+Metadata,Date Range End,2025-05-01
+Metadata,Unique Traders,32
+Metadata,Unique Coins,246
+Fear Period,Total Trades,83237
+Fear Period,Total PnL,"$4,096,265.69"
+Fear Period,Average PnL,$49.212077
+Fear Period,Win Rate,40.79%
+Fear Period,Profit Factor,4.3305
+Fear Period,Best Hour (IST),12:00
+Greed Period,Total Trades,90301
+Greed Period,Total PnL,"$4,907,772.58"
+Greed Period,Average PnL,$54.349039
+Greed Period,Win Rate,42.03%
+Greed Period,Profit Factor,4.6912
+Greed Period,Best Hour (IST),10:00
+Statistical Tests,Mann-Whitney U (P-value),8.74e-04
+Statistical Tests,Chi-Square (P-value),1.16e-46
+Statistical Tests,Pearson Correlation,0.0083
+Statistical Tests,Cohen's d (Effect Size),-0.0052
+Key Findings,Better Sentiment (PnL),GREED
+Key Findings,Better Sentiment (Win Rate),GREED
+Key Findings,PnL Difference,$5.136962
+Key Findings,Win Rate Difference,1.25%

@@ -1,0 +1,5 @@
+,test,comparison,statistic,p_value,significant,fear_mean,greed_mean,dof,pearson_r,pearson_p,spearman_r,spearman_p,value,abs_value,interpretation
+Mann-Whitney_PnL,Mann-Whitney U,Fear vs Greed PnL,3725775883.0,0.0008741105537472515,True,49.212077443108235,54.34903907768462,,,,,,,,
+ChiSquare_Outcome,Chi-Square,Trade Outcome vs Sentiment,220.96977984178005,1.1594125125731827e-46,True,,,4,,,,,,,
+Correlation_FG_PnL,Pearson & Spearman,,,,,,,,0.008320313984117087,0.0001313113755452169,0.03817357739761903,5.892761253518753e-69,,,
+Effect_Size,Cohen's d,,,,,,,,,,,,-0.005215228489908166,0.005215228489908166,Negligible
